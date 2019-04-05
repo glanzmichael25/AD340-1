@@ -1,2 +1,16 @@
+# These files must never go into my repo.
+
 *.sublime-workspace
 google-services.json
+*.iml
+.gradle
+.DS_Store
+.externalNativeBuild
+
+# These are configured to apply to each/all HW folders
+
+/*/local.properties
+/*/.idea
+/*/build
+/*/*/build
+/*/captures
