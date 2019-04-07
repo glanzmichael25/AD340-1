@@ -6,6 +6,9 @@ google-services.json
 .gradle
 .DS_Store
 .externalNativeBuild
+proguard-rules.pro
+idea/
+.idea/
 
 # These are configured to apply to each/all HW folders
 
