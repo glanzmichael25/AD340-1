@@ -3,17 +3,15 @@
 *.sublime-workspace
 google-services.json
 *.iml
-.gradle
+.gradle/
 .DS_Store
 .externalNativeBuild
-proguard-rules.pro
 idea/
 .idea/
+local.properties
+gradle.properties
 
 # These are configured to apply to each/all HW folders
-
-/*/local.properties
-/*/.idea
 /*/build
 /*/*/build
 /*/captures
