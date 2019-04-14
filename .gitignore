@@ -10,6 +10,10 @@ idea/
 .idea/
 local.properties
 gradle.properties
+progard-rules.pro
+idea/
+
+
 
 # These are configured to apply to each/all HW folders
 /*/build
