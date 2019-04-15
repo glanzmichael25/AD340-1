@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Views and View Groups</string>
+    <string name="main_lbl1">This is a text box.</string>
+    <string name="main_lbl2">This is also text box,\nin a nested LinearLayout.</string>
+    <string name="main_btn">Click a button</string>
+    <string name="main_chbx">Check the box</string>
+    <string name="main_txbx">Type in a box</string>
+    <string name="main_rdbtn">Check the button</string>
+    <string name="main_pckr">Pick a date</string>
+    <string-array name="main_spn">
+        <item>First item</item>
+        <item>Second item</item>
+        <item>Third item</item>
+        <item>Fourth item</item>
+        <item>Fifth item</item>
+    </string-array>
+
+    <string name="rel_lbl1">Click a button</string>
+    <string name="rel_txtbx">Enter some text</string>
+    <string name="rel_chbx1">Select if you like llamas</string>
+    <string name="rel_chbx2">Select if you like aardvarks</string>
+
+    <string name="cons_lbl">Edit text there:</string>
+    <string name="cons_txbx">Enter text here</string>
+    <string name="cons_lbl2">Click button?</string>
+    <string name="cons_btn">Click me!</string>
+
+    <string name="listview_id">ID:&#160;</string>
+    <string name="listview_pieces">Number of pieces:&#160;</string>
+</resources>

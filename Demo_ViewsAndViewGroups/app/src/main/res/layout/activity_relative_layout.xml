@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/lbl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/rel_lbl1"
+        android:layout_margin="@dimen/widget_margins"
+        android:layout_alignParentTop="true" />
+
+    <EditText
+        android:id="@+id/txtbx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/rel_txtbx"
+        android:layout_margin="@dimen/widget_margins"
+        android:layout_toRightOf="@id/lbl"/>
+
+    <CheckBox
+        android:id="@+id/chxbx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/rel_chbx1"
+        android:layout_below="@id/lbl"/>
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/rel_chbx2"
+        android:layout_below="@id/txtbx"
+        android:layout_toRightOf="@id/chxbx"/>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/rel_fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="@dimen/widget_margins"
+        app:srcCompat="@android:drawable/ic_media_ff" />
+</RelativeLayout>
