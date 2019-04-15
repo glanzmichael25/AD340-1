@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widget_margins">16dp</dimen>
+    <dimen name="big_font">20sp</dimen>
+    <dimen name="cardview_textview_margins">2dp</dimen>
+</resources>
