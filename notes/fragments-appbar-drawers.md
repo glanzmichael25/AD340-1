@@ -53,7 +53,7 @@ app's build config.
  1. Add a string resource, and layout w/ `TextView` for `SecondFragment.java`.
  1. Add the following code to `HostActivity.java`.
 
-        ... implements implements MainFragment.OnNextClick
+        ... implements MainFragment.OnNextClickListener
 
         public void swapFragments(Fragment fragment) {
           Fragment newFragment = null;
