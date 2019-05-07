@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW2 Solution</string>
+
+    <string name="lbl_main_activty">Main Activity</string>
+    <string name="btn_main_activity">Send Intent</string>
+    <string name="lbl_second_activity">Second Activity</string>
+</resources>
