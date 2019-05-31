@@ -1,0 +1,12 @@
+{
+  "bestUSCities": [
+    {
+      "cityName": "Seattle",
+      "state": "WA"
+    },
+    {
+      "cityName": "Chicago",
+      "state": "IL"
+    }
+  ]
+}
