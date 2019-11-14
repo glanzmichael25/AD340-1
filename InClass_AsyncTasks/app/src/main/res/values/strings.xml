@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tasks</string>
+    <string name="btn_get_data">Start Task</string>
+    <string name="no_data">No data yet ...</string>
+    <string name="waiting">Waiting ...</string>
+    <string name="no_connection">Not connected!</string>
+</resources>

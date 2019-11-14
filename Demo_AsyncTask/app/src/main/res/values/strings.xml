@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Async Tasks</string>
+    <string name="lbl_fragment_start">I am ready to start work!</string>
+    <string name="lbl_fragment_result">Awake at last after
+        sleeping 900 milliseconds!</string>
+    <string name="btn_start_task">START TASK</string>
+    <string name="napping">Napping ...</string>
+
+    <string name="nav_async_task">AsyncTask</string>
+    <string name="nav_async_loader">AsyncTaskLoader</string>
+    <string name="nav_open_drawer">Open drawer</string>
+    <string name="nav_close_drawer">Close drawer</string>
+
+    <string name="lbl_fragment_loader_start">AsyncTaskLoader</string>
+    <string name="btn_loader">Start Loading</string>
+    <string name="no_results">No results</string>
+    <string name="working">Working ...</string>
+    <string name="lbl_traffic_cam">Traffic cams</string>
+    <string name="btn_traffic_cams">Get Traffic</string>
+    <string name="btn_volley">Start Volley</string>
+    <string name="lbl_volley">Volley demo</string>
+    <string name="error_message">Volley attempt unsuccessful</string>
+    <string name="error_no_connectivity">Cannot connect to internet</string>
+</resources>

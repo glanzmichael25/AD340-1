@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Demo Testing</string>
+    <string name="action_settings">Settings</string>
+    <string name="default_tip_profile">Default profile</string>
+
+    <string name="tip_type">Tip type:</string>
+    <string name="service_cost">Cost:</string>
+    <string name="tip_amount">Tip amount:</string>
+    <string name="quality">Quality:</string>
+    <string name="calculate">Calculate</string>
+    <string-array name="tip_types">
+        <item>Food server</item>
+        <item>Food delivery</item>
+        <item>Hotel bag service</item>
+    </string-array>
+    <string-array name="quality_value">
+        <item>Good</item>
+        <item>Mediocre</item>
+        <item>Bad</item>
+    </string-array>
+    <string name="default_tip_amt_str">0.25</string>
+    <string name="toast_error_message">Check your inputs</string>
+</resources>
